@@ -1,0 +1,28 @@
+div{
+    background-color: #FAEAD7;
+    width: 5in;
+    height: 4in;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    font-weight: 500;
+}
+p{
+    margin: 1in 0px 20px 0px;
+}
+input{
+    width: 35px;
+    height: 25px;
+}
+button{
+    background-color: white;
+    border-radius: 10px;
+    width: 70px;
+    margin: 7px;
+}
